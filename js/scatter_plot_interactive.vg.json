@@ -1,9 +1,9 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v5.json",
-  "background": "blue",
+  "background": "white",
   "padding": 5,
-  "width": 100,
-  "height": 60,
+  "width": 300,
+  "height": 180,
   "title": {
     "text": "GDP difference between 2009 to 2013",
     "frame": "group"
@@ -257,6 +257,7 @@
       ]
     },
     {
+      "font-size": "15px",
       "name": "size",
       "type": "threshold",
       "domain": [
