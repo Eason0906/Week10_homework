@@ -94,7 +94,9 @@
     {
       "fill": "color",
       "gradientLength": {"signal": "clamp(height, 64, 200)"},
-      "title": "Sqrt of Difference of GDP2013 - GDP2009"
+      "font-size":"13px",
+      "title": "Sqrt of Difference of GDP2013 - GDP2009",
+      "style": "width:50px"
     }
   ],
   "config": {}
